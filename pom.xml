@@ -202,4 +202,11 @@
       </plugin>
     </plugins>
   </build>
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub piotr-yuxuan Apache Maven Packages</name>
+      <url>https://maven.pkg.github.com/piotr-yuxuan/jamm</url>
+    </repository>
+  </distributionManagement>
 </project>
